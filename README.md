@@ -2,7 +2,7 @@
 - 👀 I’m keeping my ind active by continuing to learn new development skills and techniques
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on anything related to health care
-- 📫 Reach me by email at matthe@mattknott.com
+- 📫 Reach me by email at matthew@mattknott.com
 
 <!---
 MattKnott/MattKnott is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
